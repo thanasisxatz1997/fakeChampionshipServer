@@ -1,5 +1,5 @@
 {
-  "chelsea.png": {"year":"2016-2017","name":"Chelsea"},
-  "liverpool1.png": {"year":"2019-2020","name":"Liverpool"},
-  "arsenal.png": {"year":"2003-2004","name":"Arsenal"}
+  "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png": {"year":"2016-2017","name":"Chelsea"},
+  "https://fabrikbrands.com/wp-content/uploads/Liverpool-Logo-1.png": {"year":"2019-2020","name":"Liverpool"},
+  "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/250px-Arsenal_FC.svg.png": {"year":"2003-2004","name":"Arsenal"}
 }
